@@ -4,7 +4,7 @@
 - My favourite quotes:
 - "Python is all about solving real problems and not wasting time reinventing the wheel."
 - "Pythonic" means keeping your code straightforward and approachable.
-![Alt text](My Codewars badge)
+
 <img src="https://www.codewars.com/users/informationvulture/badges/large">
 
 <!---
