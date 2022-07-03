@@ -4,7 +4,8 @@
 - My favourite quotes:
 - "Python is all about solving real problems and not wasting time reinventing the wheel."
 - "Pythonic" means keeping your code straightforward and approachable.
-https://www.codewars.com/users/informationvulture/badges/large
+![Alt text](My Codewars badge)
+<img src="https://www.codewars.com/users/informationvulture/badges/large">
 
 <!---
 informationvulture/informationvulture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
